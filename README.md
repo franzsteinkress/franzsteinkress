@@ -4,6 +4,7 @@
 
 Ich bin Softwareentwickler mit Fokus auf C++ und Qt sowie der Gestaltung interaktiver Benutzeroberflächen und Visualisierungstechniken.
 Ich entwickle moderne Anwendungen – von leistungsfähigen Desktoptools bis hin zu präzise inszenierten UI-Komponenten und technischen Visualisierungen, auch im Web mit HTML/CSS/JavaScript.
+Neben klassischer UI-Entwicklung befasse ich mich intensiv mit KI-gestützter Softwareentwicklung und Prompt Engineering als integralen Bestandteilen zukunftsorientierter Systeme.
 
 ## Kontakt & Netzwerke
 
