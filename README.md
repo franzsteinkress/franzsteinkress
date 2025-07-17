@@ -1,9 +1,6 @@
 <!-- Profil-README für https://github.com/franzsteinkress -->
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/franzsteinkress/franzsteinkress/main/resources/fs.ico" width="48" alt="Icon" />
-  <span style="margin-left: 30px; font-size: 3.0em;"><strong>Franz Steinkress</strong></span>
-</p>
+# <img src="https://raw.githubusercontent.com/franzsteinkress/franzsteinkress/main/resources/fs.ico" width="30" alt="Icon" /> Franz Steinkress
 
 Ich bin Softwareentwickler mit Fokus auf C++ und Qt sowie der Gestaltung interaktiver Benutzeroberflächen und Visualisierungstechniken.
 Ich entwickle moderne Anwendungen – von leistungsfähigen Desktoptools bis hin zu präzise inszenierten UI-Komponenten und technischen Visualisierungen, auch im Web mit HTML/CSS/JavaScript.
@@ -53,7 +50,3 @@ Fokussierte Modularisierung und visuelle Optimierung von Qt-Projekten – mit kl
 Sofern nicht anders angegeben, stehen alle Inhalte dieses Profils und der verlinkten Repositories unter der [MIT-Lizenz](https://opensource.org/licenses/MIT).
 
 Einzelne Projekte, wie z. B. solche mit PyQt6, unterliegen den Lizenzbedingungen ihrer verwendeten Komponenten – z. B. der [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html) bei Verwendung der Qt Community Edition. Details siehe in den jeweiligen Repositories.
-
----
-
-
