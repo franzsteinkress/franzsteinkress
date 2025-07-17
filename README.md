@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/franzsteinkress/franzsteinkress/main/resources/fs.ico" width="48" alt="Icon" />
-  <span style="margin-left: 12px; font-size: 1.5em;"><strong>Franz Steinkress</strong></span>
+  <span style="margin-left: 30px; font-size: 3.0em;"><strong>Franz Steinkress</strong></span>
 </p>
 
 Ich bin Softwareentwickler mit Fokus auf C++ und Qt sowie der Gestaltung interaktiver Benutzeroberflächen und Visualisierungstechniken.
@@ -13,10 +13,6 @@ Ich entwickle moderne Anwendungen – von leistungsfähigen Desktoptools bis hin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franzsteinkress)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/franzsteinkress)
 
 ## Demo: Entwurfsmuster als HTML-Animation
-
-> Eine animierte Darstellung eines Entwurfsmusters, direkt im Browser sichtbar  
-* [zum Projekt](https://github.com/franzsteinkress/pattern-visualizer-html)  
-* Technologien: `HTML`, `CSS`, `JavaScript`, `SVG`
 
 > Eine animierte Darstellung eines Entwurfsmusters, direkt im Browser sichtbar
 
