@@ -8,7 +8,8 @@ Neben klassischer UI-Entwicklung befasse ich mich intensiv mit KI-gestützter So
 
 ## Kontakt & Netzwerke
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franzsteinkress)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/franzsteinkress)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franzsteinkress)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/franzsteinkress)  [![X](https://img.shields.io/badge/X-000000?logo=twitter&logoColor=white)](https://x.com/franzsteinkress)
+
 
 ## Demo: Entwurfsmuster als HTML-Animation
 
@@ -18,7 +19,7 @@ Neben klassischer UI-Entwicklung befasse ich mich intensiv mit KI-gestützter So
 * [zum Repository](https://github.com/franzsteinkress/Entwurfsmuster-Baukasten)
 * Technologien: `HTML`, `CSS`, `JavaScript`, `SVG`
 
-## Projekte
+## Open-Source-Projekte
 
 | Projektname | Beschreibung | Technologien |
 |-------------|--------------|--------------|
