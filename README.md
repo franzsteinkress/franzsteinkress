@@ -19,6 +19,10 @@ Neben klassischer UI-Entwicklung befasse ich mich intensiv mit KI-gestützter So
 * [zum Repository](https://github.com/franzsteinkress/Entwurfsmuster-Baukasten)
 * Technologien: `HTML`, `CSS`, `JavaScript`, `SVG`
 
+## Demo: Python-Anwendung in 23 Bootstrap-Designs
+* [Live-Demo ansehen](https://franzsteinkress.github.io/LizenzprueferUI/html-visuals/proxy/index.html)
+* [zum Repository](https://github.com/franzsteinkress/LizenzprueferUI)
+
 ## Open-Source-Projekte
 
 | Projektname | Beschreibung | Technologien |
