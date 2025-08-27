@@ -22,6 +22,11 @@ Neben klassischer UI-Entwicklung befasse ich mich intensiv mit KI-gestützter So
 * [zum Repository](https://github.com/franzsteinkress/LizenzprueferUI)
 * Technologien: `Python`, `HTML`, `CSS`, `JavaScript`, `PNG`
 
+## Demo: Design Reise 50 Bootstrap-Designs
+* [Live-Demo ansehen](https://franzsteinkress.github.io/Design-Reise/html-visuals/index.html)
+* [zum Repository](https://github.com/franzsteinkress/Design-Reise)
+* Technologien: `HTML`, `CSS`, `JavaScript`, `PNG`
+
 ## Open-Source-Projekte
 
 | Projektname | Beschreibung | Technologien |
