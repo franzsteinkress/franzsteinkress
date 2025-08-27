@@ -11,17 +11,16 @@ Neben klassischer UI-Entwicklung befasse ich mich intensiv mit KI-gestützter So
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franzsteinkress)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/franzsteinkress)  [![X](https://img.shields.io/badge/X-000000?logo=twitter&logoColor=white)](https://x.com/franzsteinkress)
 
 
-## Demo: Entwurfsmuster als HTML-Animation
-
-> Eine animierte Darstellung eines Entwurfsmusters, direkt im Browser sichtbar
-
-* [Live-Demo ansehen](https://franzsteinkress.github.io/Entwurfsmuster-Baukasten/html-visuals/proxy/index.html)
+## Demo: 23 Entwurfsmuster
+* [Live-Demo ansehen](https://franzsteinkress.github.io/Entwurfsmuster-Baukasten/html-visuals/index.html)
+* [HTML-Animation ansehen](https://franzsteinkress.github.io/Entwurfsmuster-Baukasten/html-visuals/proxy/index.html)
 * [zum Repository](https://github.com/franzsteinkress/Entwurfsmuster-Baukasten)
-* Technologien: `HTML`, `CSS`, `JavaScript`, `SVG`
+* Technologien: `C++`, `UML`, `HTML`, `CSS`, `JavaScript`, `PNG`
 
-## Demo: Python-Anwendung in 23 Bootstrap-Designs
+## Demo: Python-Anwendung mit 23 Bootstrap-Designs
 * [Live-Demo ansehen](https://franzsteinkress.github.io/LizenzprueferUI/html-visuals/index.html)
 * [zum Repository](https://github.com/franzsteinkress/LizenzprueferUI)
+* Technologien: `Python`, `HTML`, `CSS`, `JavaScript`, `PNG`
 
 ## Open-Source-Projekte
 
