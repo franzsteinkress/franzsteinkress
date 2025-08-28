@@ -10,22 +10,38 @@ Neben klassischer UI-Entwicklung befasse ich mich intensiv mit KI-gestützter So
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franzsteinkress)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/franzsteinkress)  [![X](https://img.shields.io/badge/X-000000?logo=twitter&logoColor=white)](https://x.com/franzsteinkress)
 
+## Demos
 
-## Demo: 23 Entwurfsmuster
+#### Design Patterns für professionelle C++-Architektur
 * [Live-Demo ansehen](https://franzsteinkress.github.io/Entwurfsmuster-Baukasten/html-visuals/index.html)
-* [HTML-Animation ansehen](https://franzsteinkress.github.io/Entwurfsmuster-Baukasten/html-visuals/proxy/index.html)
 * [zum Repository](https://github.com/franzsteinkress/Entwurfsmuster-Baukasten)
+* [HTML-Animation ansehen](https://franzsteinkress.github.io/Entwurfsmuster-Baukasten/html-visuals/proxy/index.html)
 * Technologien: `C++`, `UML`, `HTML`, `CSS`, `JavaScript`, `PNG`
 
-## Demo: Python-Anwendung mit 23 Bootstrap-Designs
+#### Python-Apps & Webdesign
+* [Live-Demo ansehen](https://github.com/franzsteinkress/Python-Beispielsammlung/Vorschau/html-visuals/index.html) 
+* [zum Repository](https://github.com/franzsteinkress/Python-Beispielsammlung)
+* Technologien: `Python`, `HTML`, `CSS`, `JavaScript`, `PNG`
+
+#### Python-Anwendung in 23 Bootstrap-Designs
 * [Live-Demo ansehen](https://franzsteinkress.github.io/LizenzprueferUI/html-visuals/index.html)
 * [zum Repository](https://github.com/franzsteinkress/LizenzprueferUI)
 * Technologien: `Python`, `HTML`, `CSS`, `JavaScript`, `PNG`
 
-## Demo: Design Reise 50 Bootstrap-Designs
+#### 50 Bootstrap-Layouts für eine Webanwendung
 * [Live-Demo ansehen](https://franzsteinkress.github.io/Design-Reise/html-visuals/index.html)
 * [zum Repository](https://github.com/franzsteinkress/Design-Reise)
 * Technologien: `HTML`, `CSS`, `JavaScript`, `PNG`
+
+#### Moderne Malerei – neu erschaffen aus Prompts
+* [Live-Demo ansehen](https://franzsteinkress.github.io/Malereistile/Moderne-Malerei/html-visuals/index.html)
+* [zum Repository](https://github.com/franzsteinkress/Malereistile/Moderne-Malerei)
+* Technologien: `HTML`, `CSS`, `JavaScript`, `JPG`, `ChatGPT 4o`
+
+#### Zeitgenössische Malerei – neu erschaffen aus Prompts
+* [Live-Demo ansehen](https://franzsteinkress.github.io/Malereistile/Zeitgenoessische-Malerei/html-visuals/index.html)
+* [zum Repository](https://github.com/franzsteinkress/Malereistile/Zeitgenoessische-Malerei)
+* Technologien: `HTML`, `CSS`, `JavaScript`, `JPG`, `ChatGPT 4o`
 
 ## Open-Source-Projekte
 
