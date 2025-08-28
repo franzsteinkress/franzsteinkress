@@ -35,12 +35,12 @@ Neben klassischer UI-Entwicklung befasse ich mich intensiv mit KI-gestützter So
 
 #### Moderne Malerei – neu erschaffen aus Prompts
 * [Live-Demo ansehen](https://franzsteinkress.github.io/Malereistile/Moderne-Malerei/html-visuals/index.html)
-* [zum Repository](https://github.com/franzsteinkress/Malereistile/Moderne-Malerei)
+* [zum Repository](https://github.com/franzsteinkress/Malereistile)
 * Technologien: `HTML`, `CSS`, `JavaScript`, `JPG`, `ChatGPT 4o`
 
 #### Zeitgenössische Malerei – neu erschaffen aus Prompts
 * [Live-Demo ansehen](https://franzsteinkress.github.io/Malereistile/Zeitgenoessische-Malerei/html-visuals/index.html)
-* [zum Repository](https://github.com/franzsteinkress/Malereistile/Zeitgenoessische-Malerei)
+* [zum Repository](https://github.com/franzsteinkress/Malereistile)
 * Technologien: `HTML`, `CSS`, `JavaScript`, `JPG`, `ChatGPT 4o`
 
 ## Open-Source-Projekte
