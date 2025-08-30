@@ -48,20 +48,24 @@ Neben klassischer UI-Entwicklung befasse ich mich intensiv mit KI-gestützter So
 | Projektname | Beschreibung | Technologien |
 |-------------|--------------|--------------|
 | [Cpp-Beispielsammlung](https://github.com/franzsteinkress/Cpp-Beispielsammlung) | Acht C++23-Projekte zu modernen Sprachfeatures wie Lambdas, Smart-Pointern, Threads, Deadlocks u. v. m. | `C++23`, `Standard Library`, `CMake`, `Ninja`, `GCC 15+`, `MSYS2`, `VS Code` |
+| [Design-Reise](https://github.com/franzsteinkress/Design-Reise) | 50 Bootstrap-Designs, umgesetzt in HTML, CSS und JavaScript | `HTML`, `CSS`, `Bootstrap 5`, `JavaScript`, `PNG` |
 | [Entwurfsmuster-Baukasten](https://github.com/franzsteinkress/Entwurfsmuster-Baukasten) | Sammlung aller 23 GoF-Patterns mit UML-Diagrammen in PlantUML & Draw.io | `C++`, `PlantUML`, `Draw.io` |
 | [FrameFit](https://github.com/franzsteinkress/FrameFit) | Bildbearbeitungstool mit Zuschneiden, Hintergrundfarbe, Maskierung, Vorschau – inkl. Drag & Drop | `Python`, `PyQt6`, `Pillow`, `PNG`, `JPG`, `JPEG` |
+| [InstaBildGenerator](https://github.com/franzsteinkress/InstaBildGenerator) | Tool zur Erzeugung von Instagram-Story-Highlight Bildern | `Puppeteer`, `HTML`, `CSS`, `JavaScript`, `PNG` |
 | [KI-Web-Scraper](https://github.com/franzsteinkress/KI-Web-Scraper) | Vergleich synchroner/asynchroner Web-Scraping-Methoden mit GUI-Auswertung | `Python`, `tkinter`, `requests`, `aiohttp`, `asyncio`, `beautifulsoup4`, `matplotlib`, `pandas`, `Jupyter` |
+| [LizenzprueferUI](https://github.com/franzsteinkress/LizenzprueferUI) | Lizenzprüfungssystem in 23 modernen UI-Design-Themes aus ttkbootstrap | `Python`, `ttkbootstrap`, `Pillow`, `cryptography`, `PNG` |
+| [Malereistile](https://github.com/franzsteinkress/Malereistile) | Malereistile, neu erschaffen mit Prompts, können in einem HTML-Viewer betrachtet werden | `ChatGPT 4o`, `DALL-E 3`, `HTML`, `CSS`, `JavaScript`, `PNG` |
 | [MiniLM-AnswerMatcher](https://github.com/franzsteinkress/MiniLM-AnswerMatcher) | Lokales QA-System mit Sentence-BERT (all-MiniLM-L6-v2) und GUI für Antwort-Retrieval | `Python`, `tkinter`, `sentence-transformers`, `torch`, `datasets`, `scikit-learn` |
-| [Python-Beispielsammlung](https://github.com/franzsteinkress/Python-Beispielsammlung) | 12 Mini-Apps zu GUI, Web-API, Blockchain, Bildverarbeitung, Kryptografie u. v. m. | `Tkinter`, `Flask`, `OpenCV`, `Web3`, `AES`, `Colorama`, `cryptography`, `Pillow`, `HTML`, `CSS`, `JS` |
+| [Python-Beispielsammlung](https://github.com/franzsteinkress/Python-Beispielsammlung) | 12 Mini-Apps zu GUI, Web-API, Blockchain, Bildverarbeitung, Kryptografie u. v. m. | `Tkinter`, `Flask`, `OpenCV`, `Web3`, `AES`, `Colorama`, `cryptography`, `Pillow`, `HTML`, `CSS`, `JavaScript` |
 | [Trivia-Chatbot](https://github.com/franzsteinkress/Trivia-Chatbot) | Interaktiver Quiz-Chatbot mit CLI, GUI und Web-App, nutzt lokale oder API-Fragen | `Python`, `Tkinter`, `Streamlit`, `requests`, `Open Trivia API` |
 
 ## Skills & Tools
 
 ```text
 Sprachen:      C/C++, Python, HTML/CSS, JavaScript
-Frameworks:    Qt5/6, QML, PyQt6, Tkinter, Flask, Streamlit
-Libraries:     Pillow, OpenCV, BeautifulSoup, aiohttp, sentence-transformers, scikit-learn, torch, cryptography
-Tools:         Git, VS Code, Jupyter, PlantUML, Draw.io, MSYS2
+Frameworks:    Qt5/6, QML, PyQt6, Tkinter, Flask, Streamlit, ttkbootstrap, Bootstrap 5
+Libraries:     Pillow, OpenCV, BeautifulSoup, aiohttp, sentence-transformers, scikit-learn, torch, cryptography, Puppeteer
+Tools:         Git, VS Code, Jupyter, PlantUML, Draw.io, MSYS2, ChatGPT 4o, DALL·E
 Build-Systeme: CMake, Ninja, Make
 APIs:          Open Trivia DB, Web3 (Ganache)
 Sonstiges:     Regex, UML, CLI/GUI/Web-Entwicklung, AES-Verschlüsselung, REST-APIs
