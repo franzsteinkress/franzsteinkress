@@ -19,7 +19,7 @@ Neben klassischer UI-Entwicklung befasse ich mich intensiv mit KI-gestützter So
 * Technologien: `C++`, `UML`, `HTML`, `CSS`, `JavaScript`, `PNG`
 
 #### Python-Apps & Webdesign
-* [Live-Demo ansehen](https://github.com/franzsteinkress/Python-Beispielsammlung/Vorschau/html-visuals/index.html) 
+* [Live-Demo ansehen](https://franzsteinkress.github.io/Python-Beispielsammlung/Vorschau/html-visuals/index.html) 
 * [zum Repository](https://github.com/franzsteinkress/Python-Beispielsammlung)
 * Technologien: `Python`, `HTML`, `CSS`, `JavaScript`, `PNG`
 
